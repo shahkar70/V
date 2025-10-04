@@ -29,7 +29,6 @@ vless://b550a101-63fe-4862-bfd3-8b87bb4168dd@104.24.201.19:80?security=none&type
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.48:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#Mahdi32
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.142:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#Mahdi33
 vmess://0d4c0345-b6f4-4d23-9427-88923cc57fc4@103.229.127.212:49393?encryption=auto&security=none&fp=&type=ws&path=/arki?ed%3D2048#Mahdi34
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvQzljMWtQa1lia2c=@83.217.9.210:443#Mahdi35
 vmess://a9024f1d-77a1-4c56-87c7-eeee5398667e@103.236.227.7:49795?encryption=auto&security=none&fp=&type=tcp#Mahdi36
 vmess://145178bc-c2f8-4125-a6de-11b47c2bf04e@144.48.8.51:19887?encryption=auto&security=none&fp=&type=ws&path=/arki?ed%3D2048#Mahdi38
 vmess://ee8a6f33-d362-4227-bb19-5954a1bf351e@hetz-vm2.danims.sbs:8080?encryption=auto&security=none&fp=&type=tcp#Mahdi39
