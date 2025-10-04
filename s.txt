@@ -1,20 +1,6 @@
 
 vless://d01a40f5-4e6f-4279-b0a9-0f2a268ab03c@198.41.208.211:8080?security=none&type=ws&path=/?ed%3D2048&host=worker-falling-snow-ffd7.test61.workers.dev&packetEncoding=xudp&encryption=none#Ser044
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@ch03.giamping.com:8080#Ser045
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.29:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#Ser046
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434430524.neyshabur-drc-tusacaf.info:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#Ser047
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638933624655569356.dezful-drc-tusabx.info:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#Ser048
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.49:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#Ser049
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.20:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#Ser050
-vmess://ee8a6f33-d362-4227-bb19-5954a1bf351e@ulta-tvm.danims.sbs:8080?encryption=auto&security=none&fp=&type=tcp#Ser051
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.155:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#Ser052
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.39:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#Ser053
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.141:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#Ser054
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.44:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#Ser055
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#Ser056
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.89:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#Ser05
-vless://44cb3f8c-57a4-4f2b-a0ae-d9121e54a598@138.124.52.155:54567?security=none&type=ws&path=/54567/mvfkvk&packetEncoding=xudp&encryption=none#Ser058
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@151.242.251.144:8080#Ser059
+
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.218:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%94%A5
 vless://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=none&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%94%A5
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.222:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%94%A5
