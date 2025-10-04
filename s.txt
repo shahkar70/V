@@ -1,6 +1,4 @@
 
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#MahdiSer0029
 vless://84566df5-a979-4194-94a2-720552440025@5.78.52.105:15253?security=none&type=tcp&packetEncoding=xudp&encryption=none#Mahdi1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.245:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#Mahdi2
 vmess://871d04df-fc58-470a-baca-daae28869164@8.218.8.84:23326?encryption=auto&security=none&fp=&type=ws&path=/arki?ed%3D2048#Mahdi3
@@ -28,13 +26,11 @@ vmess://6768839e-fa1b-488e-a715-2a8dfaebbea6@103.229.127.212:57206?encryption=au
 vmess://375c4b8f-b646-45c1-96a8-e9d86d4163e5@64.81.118.54:20521?encryption=auto&security=none&fp=&type=ws&path=/#Mahdi28
 vmess://418048af-a293-4b99-9b0c-98ca3580dd24@120.210.205.59:50002?encryption=auto&security=none&fp=&type=tcp#Mahdi29
 vless://b550a101-63fe-4862-bfd3-8b87bb4168dd@104.24.201.19:80?security=none&type=ws&path=%F0%9F%94%92+[By+EbraSha]&host=flat-bread-ddb6-ppal03.joriy39169.workers.dev&packetEncoding=xudp&encryption=none#Mahdi30
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.185.15:990#Mahdi31
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.48:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#Mahdi32
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.142:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#Mahdi33
 vmess://0d4c0345-b6f4-4d23-9427-88923cc57fc4@103.229.127.212:49393?encryption=auto&security=none&fp=&type=ws&path=/arki?ed%3D2048#Mahdi34
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvQzljMWtQa1lia2c=@83.217.9.210:443#Mahdi35
 vmess://a9024f1d-77a1-4c56-87c7-eeee5398667e@103.236.227.7:49795?encryption=auto&security=none&fp=&type=tcp#Mahdi36
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#Mahdi37
 vmess://145178bc-c2f8-4125-a6de-11b47c2bf04e@144.48.8.51:19887?encryption=auto&security=none&fp=&type=ws&path=/arki?ed%3D2048#Mahdi38
 vmess://ee8a6f33-d362-4227-bb19-5954a1bf351e@hetz-vm2.danims.sbs:8080?encryption=auto&security=none&fp=&type=tcp#Mahdi39
 vless://1036ed52-d1fe-410e-a961-0db84299dd5e@2.56.245.9:20357?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#Mahdi40
