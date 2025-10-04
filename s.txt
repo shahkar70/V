@@ -22,11 +22,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.241:8880?security=none&ty
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.128.54.6:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#Mahdi19
 vmess://797e2228-0d01-4b35-ed82-551ab4f3faee@8.218.204.70:47885?encryption=auto&security=none&fp=&type=tcp#Mahdi20
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.149:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#Mahdi21
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZ0VVOHFTbHdmNTM=@83.217.9.64:443#Mahdi22
 vmess://b5a82c1d-0d98-4d4d-a499-5d04e4bb114d@8.220.188.238:59134?encryption=auto&security=none&fp=&type=ws&path=/arki?ed%3D2048#Mahdi23
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.118:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#Mahdi24
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.242:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#Mahdi25
-vless://27f389ef-7337-4bb2-885e-17ee4a20017c@91.107.244.131:443?security=none&type=ws&path=/fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip?ed%3D2048&packetEncoding=xudp&encryption=none#Mahdi26
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.118:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#Mahdi2
 vmess://6768839e-fa1b-488e-a715-2a8dfaebbea6@103.229.127.212:57206?encryption=auto&security=none&fp=&type=ws&path=/arki?ed%3D2048#Mahdi27
 vmess://375c4b8f-b646-45c1-96a8-e9d86d4163e5@64.81.118.54:20521?encryption=auto&security=none&fp=&type=ws&path=/#Mahdi28
 vmess://418048af-a293-4b99-9b0c-98ca3580dd24@120.210.205.59:50002?encryption=auto&security=none&fp=&type=tcp#Mahdi29
@@ -47,6 +44,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638949521660379297.copenhagen-prx-d
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#Mahdi44
 vmess://81ed034f-4517-4c6c-977e-617e1e010519@47.239.121.153:41612?encryption=auto&security=none&fp=&type=tcp#Mahdi45
 vmess://3fd266bc-7691-43cf-a82f-0c9761a69bf0@47.83.162.4:40873?encryption=auto&security=none&fp=&type=ws&path=/arki?ed%3D2048#Mahdi46
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@141.98.4.67:52952#Mahdi47
 vmess://ebba0676-e05a-49ec-8344-d96d749e01c0@185.84.161.150:20086?encryption=auto&security=none&fp=&type=ws&path=/#Mahdi48
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.246.85.62:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#Mahdi49
