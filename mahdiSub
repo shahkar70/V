@@ -53,7 +53,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.149:8880?mode=gun&securi
 
 vless://b0d42446-ab52-4d5c-85cd-54232723670c@141.227.140.189:30239?encryption=none&security=none&type=grpc&authority=&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&mode=gun#As12
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.155:8880?encryption=none&security=none&type=grpc#Wt14
-vless://b8fed15c-bad2-5538-a235-b3a13683867c@demo.kolak.workers.dev:2096?encryption=none&security=tls&sni=demo.kolak.WOrKerS.dev&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&type=ws&host=demo.kolak.WOrKerS.dev&path=vless-ws%2F%3Fed%3D2048#1-Mahdi
 vless://78787f31-b346-4517-b07d-a1ca9c1cc273@serial.kolak.workers.dev:443?encryption=none&security=tls&sni=serial.kolak.workers.dev&fp=randomized&type=ws&host=serial.kolak.workers.dev&path=%2F%3Fed%3D2048#mahdiWorker2
 vless://13b53c31-d017-4939-96e2-83f788a735fe@demo-8y9.pages.dev:443?encryption=none&security=tls&sni=demo-8y9.pages.dev&fp=randomized&type=ws&host=demo-8y9.pages.dev&path=%2F%3Fed%3D2048#mahdiWorker
 vless://FreakConfig5@FreakConfig.snapfood.org:443?type=xhttp&mode=auto&host=freakconfig.snapfood.org&path=/&security=reality&fp=firefox&sni=refersion.com&pbk=vrloCSqsCVu25b3CHtyJ5RWo_nsUxp0PK-3LdLaKJFs&sid=6993f143e90756&spx=/#Server0002
@@ -154,21 +153,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.241:8880?security=none&ty
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.128.54.6:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#Mahdi19
 vmess://797e2228-0d01-4b35-ed82-551ab4f3faee@8.218.204.70:47885?encryption=auto&security=none&fp=&type=tcp#Mahdi20
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.149:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#Mahdi21
-vless://b8fed15c-bad2-5538-a235-b3a13683867c@demo.kolak.workers.dev:2053?encryption=none&security=tls&sni=demo.kolak.WORkErs.DeV&alpn=h3%2Ch2&fp=randomized&type=ws&host=demo.kolak.WORkErs.DeV&path=vless-ws%2F%3Fed%3D2048#3-Mahdi
-vless://b8fed15c-bad2-5538-a235-b3a13683867c@demo.kolak.workers.dev:2096?encryption=none&security=tls&sni=demo.kolak.worKeRS.DEv&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&type=ws&host=demo.kolak.worKeRS.DEv&path=vless-ws%2F%3Fed%3D2048#4-Mahdi
-vless://b8fed15c-bad2-5538-a235-b3a13683867c@demo.kolak.workers.dev:2096?encryption=none&security=tls&sni=demo.kolak.wOrkeRs.Dev&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=demo.kolak.wOrkeRs.Dev&path=vless-ws%2F%3Fed%3D2048#5-Mahdi
-vless://b8fed15c-bad2-5538-a235-b3a13683867c@demo.kolak.workers.dev:443?encryption=none&security=tls&sni=demo.kolak.wORkErs.deV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&type=ws&host=demo.kolak.wORkErs.deV&path=vless-ws%2F%3Fed%3D2048#6-Mahdi
-vless://b8fed15c-bad2-5538-a235-b3a13683867c@demo.kolak.workers.dev:2053?encryption=none&security=tls&sni=demo.kolak.wORkeRS.dev&alpn=h2&fp=safari&type=ws&host=demo.kolak.wORkeRS.dev&path=vless-ws%2F%3Fed%3D2048#7-Mahdi
-vless://b8fed15c-bad2-5538-a235-b3a13683867c@demo.kolak.workers.dev:2053?encryption=none&security=tls&sni=demo.kolak.worKErs.deV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&type=ws&host=demo.kolak.worKErs.deV&path=vless-ws%2F%3Fed%3D2048#8-Mahdi
-vless://b8fed15c-bad2-5538-a235-b3a13683867c@demo.kolak.workers.dev:2096?encryption=none&security=tls&sni=demo.kolak.wOrkErs.DEV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=demo.kolak.wOrkErs.DEV&path=vless-ws%2F%3Fed%3D2048#9-Mahdi
-vless://b8fed15c-bad2-5538-a235-b3a13683867c@demo.kolak.workers.dev:443?encryption=none&security=tls&sni=demo.kolak.WoRKeRS.dEv&alpn=h3%2Ch2&fp=randomized&type=ws&host=demo.kolak.WoRKeRS.dEv&path=vless-ws%2F%3Fed%3D2048#10-Mahdi
-vless://b8fed15c-bad2-5538-a235-b3a13683867c@demo.kolak.workers.dev:8443?encryption=none&security=tls&sni=demo.kolak.woRKERs.Dev&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&type=ws&host=demo.kolak.woRKERs.Dev&path=vless-ws%2F%3Fed%3D2048#11-Mahdi
-vless://b8fed15c-bad2-5538-a235-b3a13683867c@demo.kolak.workers.dev:443?encryption=none&security=tls&sni=demo.kolak.wORkerS.DeV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&type=ws&host=demo.kolak.wORkerS.DeV&path=vless-ws%2F%3Fed%3D2048#12-Mahdi
-vless://b8fed15c-bad2-5538-a235-b3a13683867c@demo.kolak.workers.dev:2053?encryption=none&security=tls&sni=demo.kolak.woRkERS.DEv&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=demo.kolak.woRkERS.DEv&path=vless-ws%2F%3Fed%3D2048#13-Mahdi
-vless://b8fed15c-bad2-5538-a235-b3a13683867c@demo.kolak.workers.dev:2096?encryption=none&security=tls&sni=demo.kolak.WorKerS.Dev&alpn=h2&fp=android&type=ws&host=demo.kolak.WorKerS.Dev&path=vless-ws%2F%3Fed%3D2048#14-Mahdi
-vless://b8fed15c-bad2-5538-a235-b3a13683867c@demo.kolak.workers.dev:2087?encryption=none&security=tls&sni=demo.kolak.woRkerS.DEV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&type=ws&host=demo.kolak.woRkerS.DEV&path=vless-ws%2F%3Fed%3D2048#15-Mahdi
-vless://b8fed15c-bad2-5538-a235-b3a13683867c@demo.kolak.workers.dev:2087?encryption=none&security=tls&sni=demo.kolak.wOrkERs.Dev&alpn=h2&fp=chrome&type=ws&host=demo.kolak.wOrkERs.Dev&path=vless-ws%2F%3Fed%3D2048#16-Mahdi
-vless://b8fed15c-bad2-5538-a235-b3a13683867c@demo.kolak.workers.dev:8443?encryption=none&security=tls&sni=demo.kolak.woRkers.dEv&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=demo.kolak.woRkers.dEv&path=vless-ws%2F%3Fed%3D2048#17-Mahdi
 vmess://b5a82c1d-0d98-4d4d-a499-5d04e4bb114d@8.220.188.238:59134?encryption=auto&security=none&fp=&type=ws&path=/arki?ed%3D2048#Mahdi23
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.118:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#Mahdi2
 vmess://6768839e-fa1b-488e-a715-2a8dfaebbea6@103.229.127.212:57206?encryption=auto&security=none&fp=&type=ws&path=/arki?ed%3D2048#Mahdi27
@@ -189,8 +173,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?security=none&ty
 vmess://81ed034f-4517-4c6c-977e-617e1e010519@47.239.121.153:41612?encryption=auto&security=none&fp=&type=tcp#Mahdi45
 vmess://3fd266bc-7691-43cf-a82f-0c9761a69bf0@47.83.162.4:40873?encryption=auto&security=none&fp=&type=ws&path=/arki?ed%3D2048#Mahdi46
 vmess://ebba0676-e05a-49ec-8344-d96d749e01c0@185.84.161.150:20086?encryption=auto&security=none&fp=&type=ws&path=/#Mahdi48
-vless://b8fed15c-bad2-5538-a235-b3a13683867c@demo.kolak.workers.dev:2053?encryption=none&security=tls&sni=demo.kolak.WorkerS.dEv&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&type=ws&host=demo.kolak.WorkerS.dEv&path=vless-ws%2F%3Fed%3D2048#2-Mahdi
-vless://b8fed15c-bad2-5538-a235-b3a13683867c@demo.kolak.workers.dev:2087?encryption=none&security=tls&sni=demo.kolak.wOrkeRs.DEV&alpn=h2&fp=android&type=ws&host=demo.kolak.wOrkeRs.DEV&path=vless-ws%2F%3Fed%3D2048#18-Mahdi
-vless://b8fed15c-bad2-5538-a235-b3a13683867c@demo.kolak.workers.dev:2083?encryption=none&security=tls&sni=demo.kolak.WorkERs.DEv&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=demo.kolak.WorkERs.DEv&path=vless-ws%2F%3Fed%3D2048#19-Mahdi
-vless://b8fed15c-bad2-5538-a235-b3a13683867c@demo.kolak.workers.dev:2083?encryption=none&security=tls&sni=demo.kolak.wORkErS.DEV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&type=ws&host=demo.kolak.wORkErS.DEV&path=vless-ws%2F%3Fed%3D2048#20-Mahdi
-
