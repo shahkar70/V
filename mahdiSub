@@ -37,7 +37,8 @@ hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@nl1.oomz.ru:30000?security=tls&
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#All--%F0%9F%9A%80%40proxy_Shadowsocks%F0%9F%9A%80
 
 hysteria2://bjXtE5Zeft@138.124.60.198:8443?security=tls&obfs=salamander&obfs-password=MiraCLeOPV2RayyNGvpntheBestt&insecure=1&sni=cdnjs.cloudflare.com#%F0%9F%87%B1%F0%9F%87%B7%40V2RayyNGvpn%F0%9F%87%B1%F0%9F%87%B7%D9%87%D9%85%D9%87%20%D8%A7%D9%88%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20%D9%87%D8%A7
+vless://ff84dbed-bbfb-42d8-b397-b0ec025fb570@nodegcf.azurka.org:443?path=%2Fws&security=tls&encryption=none&host=nodegcf.azurka.org&fp=chrome&type=ws&sni=nodegcf.azurka.org#All-%F0%9F%9A%80%40proxy_Shadowsocks%F0%9F%9A%80
 
-vmess://81ed034f-4517-4c6c-977e-617e1e010519@47.239.121.153:41612?encryption=auto&security=none&fp=&type=tcp#Mahdi45
-vmess://3fd266bc-7691-43cf-a82f-0c9761a69bf0@47.83.162.4:40873?encryption=auto&security=none&fp=&type=ws&path=/arki?ed%3D2048#Mahdi46
-vmess://ebba0676-e05a-49ec-8344-d96d749e01c0@185.84.161.150:20086?encryption=auto&security=none&fp=&type=ws&path=/#Mahdi48
+trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#All-%F0%9F%9A%80%40proxy_Shadowsocks%F0%9F%9A%80
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.254:8880?mode=gun&security=none&encryption=none&type=grpc#All-%F0%9F%9A%80%40proxy_Shadowsocks%F0%9F%9A%80
